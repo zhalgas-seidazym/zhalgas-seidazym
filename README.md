@@ -39,9 +39,6 @@
 <br clear="both">
 
 
-<img src="https://raw.githubusercontent.com/zhalgas-seidazym/zhalgas-seidazym/output/snake.svg" alt="Анимация змеи" />
-
-
 ###
 
 <h2 align="left">Backend Development</h2>
